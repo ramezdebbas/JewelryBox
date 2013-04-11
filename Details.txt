@@ -1,0 +1,12 @@
+Jewelry Box:
+Description:
+Jewelry Box in an app where you can find the latest jewelry which suits your personality, here are some important sample placed for Necklaces, Bracelets & Rings. 
+
+Features:
+•	Fully research based application to Jewelry.
+•	The Research results on How to Choose best which suits your personality .
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	 Live Tiles(Locally & Remotely)
+•	Searching feature.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing).
+•	Refresh Every Page of App.
